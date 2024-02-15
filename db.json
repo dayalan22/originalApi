@@ -1,0 +1,72 @@
+{
+    "employees": [
+      {
+        "name": "Tony Stark",
+        "email": "stark2@gmail.com",
+        "phone": "98888001",
+        "dob": "1999-09-13T18:30:00.000Z",
+        "id": "101"
+      },
+      {
+        "name": "Ervin Howell",
+        "email": "ervinn@melissa.com",
+        "phone": "89898981",
+        "dob": "1992-03-10T18:30:00.000Z",
+        "id": "102"
+      },
+      {
+        "name": "Clementine Bauch",
+        "email": "Nathan@yesenia.in",
+        "phone": "46312300",
+        "dob": "1992-07-21T18:30:00.000Z",
+        "id": "103"
+      },
+      {
+        "name": "Patricia",
+        "email": "Julianne.O@kory.com",
+        "phone": "49317001",
+        "dob": "1998-12-10T18:30:00.000Z",
+        "id": "104"
+      },
+      {
+        "name": "Chelsey Lucio",
+        "email": "Lucio@gmail.in",
+        "phone": "25495410",
+        "dob": "1991-08-29T18:30:00.000Z",
+        "id": "105"
+      },
+      {
+        "name": "Kane Williams",
+        "email": "kw@gmail.in",
+        "phone": "20011100",
+        "dob": "1989-11-08T18:30:00.000Z",
+        "id": "107"
+      },
+      {
+        "name": "Tom Cruise",
+        "email": "tc@gmail.com",
+        "phone": "77711122",
+        "dob": "1973-02-13T18:30:00.000Z",
+        "id": "108"
+      }
+    ],
+    "users": [
+      {
+        "id": "243a",
+        "name": "Deenadayalan",
+        "email": "gkdeena2@gmail.com",
+        "password": "Welcome!"
+      },
+      {
+        "id": "d14c",
+        "name": "Silambu",
+        "email": "Silambu@gmail.com",
+        "password": "King@123"
+      }
+    ],
+    "deleteIds": [
+      {
+        "id": "106"
+      }
+    ]
+  }
